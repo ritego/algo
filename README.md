@@ -34,6 +34,12 @@ A collection of exercises to help improve your understanding of algorithms and d
 * [Brute Force](./doc/brute-force.md)
 * [Divide and Conquer](./doc/divide-and-conquer.md)
   
+## Concepts
+
+* [Time & Space Complexity](./doc/time-space-complexity.md)
+* [Brute Force](./doc/brute-force.md)
+* [Divide and Conquer](./doc/divide-and-conquer.md)
+  
 ## Contributing
 
 * _This project is work in progress_ If you would like to contribute, please do get in touch.

@@ -20,7 +20,7 @@ A collection of exercises to help improve your understanding of algorithms and d
 *  [Graph](./doc/graph.md) - Graph is a data structure that is used to represent a network of nodes. Each node is connected to a set of other nodes, which are called its neighbors. Graphs are used to represent networks of computers, social networks, and other networks.
 * [Trie](./doc/trie.md) - Trie is a data structure that is used to store strings. It is similar to a binary search tree, except that it is optimized for string searches.
 * [Hash table](./doc/hash-table.md) - Hash table is a data structure that is used to store data. It is similar to an 
-
+* [Matrix](./doc/matrix.md) - 
 
 ## Exercises
 
@@ -31,6 +31,12 @@ A collection of exercises to help improve your understanding of algorithms and d
 ## Algorithms Templates
 
 * [Sliding Window](./doc/sliding-window.md)
+* [Brute Force](./doc/brute-force.md)
+* [Divide and Conquer](./doc/divide-and-conquer.md)
+  
+## Concepts
+
+* [Time & Space Complexity](./doc/time-space-complexity.md)
 * [Brute Force](./doc/brute-force.md)
 * [Divide and Conquer](./doc/divide-and-conquer.md)
   

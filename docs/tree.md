@@ -2,4 +2,4 @@
 
 ## Docs
 
-## Graph
+## Tree

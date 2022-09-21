@@ -88,7 +88,7 @@ return a
 - Insert O(n)
 - Delete O(n)
 
-5. Sorting Operations
+6. Sorting Operations
 - Bubble sort O(n^2)
 - Selection sort O(n^2)
 - Insertions sort O(n^2)
@@ -96,11 +96,14 @@ return a
 - Quick sort O(n^2)
 - Merge sort O(n log n)
 
-6. Search Operations
+7. Search Operations
 - Binary search O(log n)
 - Linear search O(n)
 - Hash Map search O(n)
 
-Reference
+8. Notes
+- Do not consider constants. For instance, O(2n)and O(5n) can be loosely said to belong to the family of functions O(n)
+
+9. Reference
 - https://www.amazon.com/Time-Complexity-Analysis-Coding-Interviews-ebook/dp/B09FF18MFH
 
